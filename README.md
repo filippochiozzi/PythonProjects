@@ -2,6 +2,7 @@
 Here are some of my python projects. THey are simple scripts meant to perform some analysis or get data from the web in a convenient manner
 
 A brief explanation of the projects is below.
+Note that these scripts here end by printing the results, but they can easily be integrated with other projects (which is what I hope to do over time) by just returning the dataframes and key values (without printing) to use them. 
 
 trending cryptocurrencies webscraper: 
   In this project I parse Coingecko to get data on the CryptoCurrencies which gained the most (percentege wise) over the last 24 Hours.
