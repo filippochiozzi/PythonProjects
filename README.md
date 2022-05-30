@@ -7,7 +7,7 @@ Note that these scripts here end by printing the results, but they can easily be
 trending cryptocurrencies webscraper: 
   In this project I parse Coingecko to get data on the CryptoCurrencies which gained the most (percentege wise) over the last 24 Hours.
   I decided to do this project since an API was not available for this specific information, and I wanted to run some analyses on the data without having to type everything in manually. 
-  This project requires the libraries pandas, beatifulsoup4, requests and selenium (as well as the Google chromedriver).
+  This project requires the libraries pandas, lxml, beatifulsoup4, requests and selenium (as well as the Google chromedriver).
   
  Portfolio Analysis Notebook: 
    In this jupyter notebook I created a simple program which retireves and calculates basic financial measures ona crypto portfolio (by getting historical data from the coingecko API). 
